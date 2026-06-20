@@ -12,7 +12,7 @@ def reloj():
         <title>Reloj Flask</title>
     </head>
     <body style="font-family:Arial;text-align:center;margin-top:100px;">
-        <h1>Reloj Digital</h1>
+        <h1>Reloj Digital Estudiante B</h1>
         <h2>{hora}</h2>
         <p>Aplicación Flask para DevOps</p>
     </body>
