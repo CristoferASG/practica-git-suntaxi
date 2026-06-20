@@ -9,7 +9,7 @@ def reloj():
     return f"""
     <html>
     <head>
-        <title>Reloj Flask</title>
+        <title>Reloj Flask Estudiante A</title>
     </head>
     <body style="font-family:Arial;text-align:center;margin-top:100px;">
         <h1>Reloj Digital</h1>
