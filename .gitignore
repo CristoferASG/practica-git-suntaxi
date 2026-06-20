@@ -1,3 +1,7 @@
 .venv
 venv
 .vscode
+<<<<<<< HEAD
+=======
+.github
+>>>>>>> 7a7459160d93cf4d86447bd9a3a2482b073757ad
